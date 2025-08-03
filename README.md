@@ -1,8 +1,7 @@
 # Rugby Player Segmentation and Tracking with SAM 2
 
-> I like this play so much, and that's why I created this project
-This project demonstrates object tracking using the SAM 2.1 model on rugby match scenes. The workflow is implemented in the provided Jupyter notebook (`notebook.ipynb`).
-
+I like this play so much, and that's why I created this project
+This project demonstrates object tracking using the SAM 2.1 model on rugby match scenes. It is implemented in the provided Jupyter notebook (`notebook.ipynb`).
 
 
 ## Quick Preview
